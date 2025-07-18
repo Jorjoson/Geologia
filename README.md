@@ -4,4 +4,3 @@ Pandas
 Seaborn
 Matplotlib
 ipywidgets
-IPython
