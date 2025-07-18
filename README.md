@@ -4,4 +4,4 @@ Pandas
 Seaborn
 Matplotlib
 ipywidgets
-IPython.display
+IPython
